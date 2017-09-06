@@ -1,0 +1,18 @@
+{
+  "name": "screener_ratios",
+  "version": "0.0.1",
+  "description": "This repository is for calculating some ratios that are not present on screener.",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "node calculate.js"
+  },
+  "keywords": [
+    "screener"
+  ],
+  "author": "Hariprasad Kulkarni",
+  "license": "MIT",
+
+  "dependencies": {
+    "request": "latest"
+  }
+}
